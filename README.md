@@ -1,4 +1,4 @@
 # Point-oF-Sale
 
-<img src="POS styles" align="center">
+<img src="POS styles.png" align="center">
 <br>
